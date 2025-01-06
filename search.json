@@ -1,0 +1,12 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "About\nI am currently a Software Engineer in the Scientific Computing Software team at HHMI’s Janelia Research Campus, where I work on image reconstruction and analysis of large-scale microscopy datasets.\nWhile my undergraduate studies in mathematics provided me with the abstract problem solving skills necessary in modern science, I soon craved actual problems to solve. This led me to pursue another undergraduate degree in physics and to focus my further mathematical studies in a particular field of applied mathematics: analysis and numerical simulation of partial differential equations.\nDuring my PhD in this field with Prof. Dirk Praetorius at TU Wien, I concentrated on the simulation aspect and became ardently passionate about writing maintainable and efficient numerical software; an interest that already kindled in previous research internships at the Austrian Institute of Technology and the Jülich Supercomputing Centre. As Scientific Software Engineer, I get to tackle a wide variety of problems arising from experimental data to test and further refine my programming skills.\n\n\nResearch Interests\nI am interested in a very broad range of topics in mathematics, computer science, and natural sciences. These include, but are not limited to:\n\n\n\n\n\n\nScientific software: mathematical libraries and high performance computing\n\n\n\n\n\n\n\nNumerical simulation of PDEs: Finite Element Method, computational micromagnetism, and biological models\n\n\n\n\n\n\n\nImage analysis: post-processing of electron microscopy images and data formats for bio-images\n\n\n\n\n\nHighlighted Projects\n\nCurrently, I am working on reconstruction and post-processing of terabyte to petabyte scale electron microscopy image data in Java; check out the code on GitHub.\nI wrote MOOAFEM, an object oriented Matlab code for adaptive Finite Element Analysis that (under some circumstances) solves problems faster than the Matlab backslash operator; it can be accessed on GitLab.\nDuring my PhD, I designed algorithms for goal-oriented adaptive FEM and proved that they are optimal, i.e., they have the best possible asymptotic complexity; for details, see my thesis.\n\nFor a full list of all my projects, check out my GitHub page or my publications on Google Scholar.",
+    "crumbs": [
+      "Home"
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+.sidebar-logo {
+  border-radius: 50%;
+}
+
+div.sidebar-menu-container {
+  text-align: center;
+}
+
+.sidebar-navigation .sidebar-divider {
+  margin-top: 2.0rem;
+  margin-bottom: 2.0rem;
+}
